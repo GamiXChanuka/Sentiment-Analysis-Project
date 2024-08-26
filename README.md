@@ -1,2 +1,3 @@
 # Sentiment-Analysis-Project
-Sentiment Analysis 
+
+**Note:** This project was developed as part of my studies. 📚
